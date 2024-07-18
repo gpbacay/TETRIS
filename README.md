@@ -1,0 +1,3 @@
+# Tetris Game using Pygame
+
+I've made a classic Tetris game using Python and the Pygame library, with the help of my AI assistant, Haraya. In this game, I initialize a window with a grid for the Tetromino pieces and a sidebar that shows the next piece, the player's score, and the current level. The game includes various Tetromino shapes and colors selected randomly, which players can move left, right, or down, and rotate. The pieces fall automatically, with the speed increasing as the player's level goes up. I've implemented collision detection to merge pieces into the grid and clear full lines to update the score. The game also features start and game over screens with buttons to begin or restart the game, providing an engaging and interactive experience.
